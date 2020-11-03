@@ -12,7 +12,7 @@ namespace prgConvertitore
             int divisore;
             Console.WriteLine("inserisci numero decimale senza virgola:");
             n = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"inserisci il divisore");
+            Console.WriteLine($"inserisci il divisore:");
             divisore = Convert.ToInt32(Console.ReadLine());
             
 
